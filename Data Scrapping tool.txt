@@ -1,0 +1,32 @@
+Data Scrapping tool
+
+Beautiful soup
+Scrapy
+Crawly
+
+puppeteer
+
+web-based application
+Octoparse
+import.io
+Mozenda
+ParseHub
+CrawlMonster
+CommonCrawl
+Content Grabber
+Diffbot
+Dexi.io
+DataScrapping.co
+FMiner
+Helium Scraper
+Scrape.it
+ScraperWiki
+ScrapingHub
+Screen-Scraper
+Salestools.io
+ScrapeHero
+Web Content Extractor
+Webharvay
+Web Sundew
+
+
